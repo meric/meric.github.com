@@ -1,7 +1,8 @@
 ## Services:
 
 - Web development in Python Django
-- Lua Programming
+- Mobile Application Development with Python Android using Pyjnius
+- Python or Lua Programming
 - [Email me](mailto:meric.au+github@gmail.com)
 
 ## What Have I Built?
