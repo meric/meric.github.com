@@ -1,0 +1,56 @@
+From 6357803f3012a07f4d4b3c08b8ee26bc6a02be0f Mon Sep 17 00:00:00 2001
+From: Eric Man <meric.au@gmail.com>
+Date: Sat, 16 Mar 2013 20:10:03 +1100
+Subject: [PATCH] Adjust style and HTML.
+
+---
+ index.html             | 4 ++--
+ stylesheets/styles.css | 3 +--
+ 2 files changed, 3 insertions(+), 4 deletions(-)
+
+diff --git a/index.html b/index.html
+index 9c04ba4..9013226 100644
+--- a/index.html
++++ b/index.html
+@@ -3,7 +3,7 @@
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+-    <title>Eric Man by meric</title>
++    <title>Eric Man</title>
+     <link rel="stylesheet" href="stylesheets/styles.css">
+     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+@@ -20,7 +20,7 @@
+   <body>
+       <div id="header">
+         <nav>
+-          <li class="fork"><a href="https://github.com/meric">View On GitHub</a></li>
++          <li class="fork"><a href="mailto:meric.au+github@gmail.com">Email Me</a></li>
+         </nav>
+       </div><!-- end header -->
+ 
+diff --git a/stylesheets/styles.css b/stylesheets/styles.css
+index e7b4ffc..8b54a3e 100644
+--- a/stylesheets/styles.css
++++ b/stylesheets/styles.css
+@@ -700,7 +700,6 @@ dt {
+   top: 0px;
+   height: 60px;
+   width: 100%;
+-  position: fixed;
+   background: url(../images/nav-bg.gif) #353535;
+   border-bottom: 4px solid #434343;
+   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+@@ -784,7 +783,7 @@ section {
+   max-width: 650px;
+   padding: 30px 0px 50px 0px;
+   margin: 20px 0;
+-  margin-top: 70px;
++  margin-top: 10px;
+ }
+ section #title {
+   border: 0;
+-- 
+1.7.12.4 (Apple Git-37)
+
