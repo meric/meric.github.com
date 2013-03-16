@@ -5,7 +5,7 @@
 - [Email me](mailto:meric.au+github@gmail.com)
 
 ## What Have I Built?
-### Lisp to Lua compiler, compatible with Lua 5.2 or Lua JIT 2.0, starred by 40+ people on github: https://github.com/meric/l2l
+### Lisp to Lua compiler (has macros), compatible with Lua 5.2 or Lua JIT 2.0, starred by 40+ people on github: https://github.com/meric/l2l
 
 Turns this (not so good example of a factorial function):
 
