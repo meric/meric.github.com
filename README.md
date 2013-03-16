@@ -1,7 +1,7 @@
 ## Services:
 
 - Web development in Python Django
-- Mobile Application Development with Python Android using Kivy
+- Android Application Development with Python Kivy
 - Python or Lua Programming
 - [Email me](mailto:meric.au+github@gmail.com)
 
