@@ -6,7 +6,7 @@
 - [Email me](mailto:meric.au+github@gmail.com)
 
 ## What Have I Built?
-### Django website with paypal integration, built for a previous client: https://accounttracker.com
+### Django website with paypal integration, built for a client, taking 100 hours of work: https://accounttracker.com
 
 ![AccountTracker.com](http://i.imgur.com/ofUnj2q.png)
 
