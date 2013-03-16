@@ -55,7 +55,7 @@ local _z9e4_call = print(_4nxl_call)
 ```
 
 
-- [Lua JIT 2.0 compatibility suggested and partially implemented by Tommy Ettinger and Joshua Day](https://github.com/meric/l2l/issues/1).
+- [Lua JIT 2.0 compatibility first suggested and partially implemented by Tommy Ettinger and Joshua Day](https://github.com/meric/l2l/issues/1).
 
 ### Django website with paypal integration, built for a previous client: https://accounttracker.com
 
