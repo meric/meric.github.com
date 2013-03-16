@@ -66,7 +66,7 @@ local _z9e4_call = print(_4nxl_call)
 
 - I also helped Gradconnection reduced processing time on some of their most frequently visited pages by over 90% through optimizing their calls to the Django ORM.
 
-## Education
+## What Did I Study?
 ### Bachelor of Commerce and Software Engineering (Honours), 2008-2013
 #### University of Sydney
 
@@ -93,7 +93,7 @@ local _z9e4_call = print(_4nxl_call)
 <p>
 - The minimum grade I have achieved in the above courses was "Distinction".
 
-## Where To Find Me
+## Where To Find Me?
 
 - [HN](http://news.ycombinator.com/user?id=meric)
 - [Github](http://github.com/meric)
