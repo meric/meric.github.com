@@ -92,4 +92,9 @@ local _z9e4_call = print(_4nxl_call)
 <p>
 - The minimum grade I have achieved in the above courses was "Distinction".
 
-[Email me](mailto:meric.au+github@gmail.com)
+## Where To Find Me
+
+- [HN](http://news.ycombinator.com/user?id=meric)
+- [Github](http://github.com/meric)
+- [Email me](mailto:meric.au+github@gmail.com)
+
