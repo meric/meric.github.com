@@ -1,35 +1,13 @@
-## Education
-### Bachelor of Commerce and Software Engineering (Honours), 2008-2013
-#### University of Sydney
+## Services:
 
-- Software Engineering Units I have studied that involved programming:
+- Web development in Python Django
+- Lua Programming
+- [Email me](mailto:meric.au+github@gmail.com)
 
-```
-    COMP  2007  Algorithms and Complexity
-    COMP  2129  Operating Systems and Machine Principles  
-    COMP  3308  Introduction to Artificial Intelligence
-    COMP  3615  Software Development Project  
-    COMP  5046  Statistical Natural Language Processing
-    COMP  5348  Enterprise Scale Software Architecture
-    ELEC  1601  Foundations of Computer Systems
-    ELEC  3609  Internet Software Platforms
-    ELEC  4712  Honours Thesis A
-    ELEC  4713  Honours Thesis B
-    ELEC  5619  Object Oriented Application Frameworks  
-    INFO  1103  Introduction to Programming
-    INFO  1105  Data Structures
-    INFO  2120  Database Systems 1
-    INFO  3220  Object Oriented Design
-```
-
-<p>
-- The minimum grade I have achieved in the above courses was "Distinction".
-
-
-## What Have I Built
+## What Have I Built?
 ### Lisp to Lua compiler, compatible with Lua 5.2 or Lua JIT 2.0, starred by 40+ people on github: https://github.com/meric/l2l
 
-Turns this:
+Turns this (not so good example of a factorial function):
 
 ```lisp
 ; Example 1: Function declaration
@@ -84,3 +62,34 @@ local _z9e4_call = print(_4nxl_call)
 ### Scalable notification framework using redis, each notification having a different set of recipients: (on the right side of) http://gradconnection.com.au 
 
 ![Gradconnection notifications](http://i.imgur.com/HsTQw5A.png)
+
+- I also helped Gradconnection reduced processing time on some of their most frequently visited pages by over 90% through optimizing their calls to the Django ORM.
+
+## Education
+### Bachelor of Commerce and Software Engineering (Honours), 2008-2013
+#### University of Sydney
+
+- Software Engineering Units I have studied that involved programming:
+
+```
+    COMP  2007  Algorithms and Complexity
+    COMP  2129  Operating Systems and Machine Principles  
+    COMP  3308  Introduction to Artificial Intelligence
+    COMP  3615  Software Development Project  
+    COMP  5046  Statistical Natural Language Processing
+    COMP  5348  Enterprise Scale Software Architecture
+    ELEC  1601  Foundations of Computer Systems
+    ELEC  3609  Internet Software Platforms
+    ELEC  4712  Honours Thesis A
+    ELEC  4713  Honours Thesis B
+    ELEC  5619  Object Oriented Application Frameworks  
+    INFO  1103  Introduction to Programming
+    INFO  1105  Data Structures
+    INFO  2120  Database Systems 1
+    INFO  3220  Object Oriented Design
+```
+
+<p>
+- The minimum grade I have achieved in the above courses was "Distinction".
+
+[Email me](mailto:meric.au+github@gmail.com)
