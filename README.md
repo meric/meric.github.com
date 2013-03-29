@@ -27,7 +27,7 @@
      -- James Boyden, CEO, SnapDisco
 
 #### From a client for whom I built:
-- JSON API that connects to a payment processor as well as allowing users to access their proprietary technology.
+- JSON API that connects to a payment processor as well as allowing users to access their product's core functionality.
 - Android Application in Python
 
 ## What Have I Built?
