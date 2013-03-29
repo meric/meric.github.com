@@ -8,11 +8,6 @@
 
 ## How have I done before?
 
-#### Previous client for whom I built:
-- JSON API that connects to a payment processor as well as allowing users to access their proprietary technology.
-- Android Application in Python
-
-
     Eric is smart, hard-working, cheerful, enthusiastic, quick-learning,
     and a creative problem solver.  We've called upon him several times at
     very short notice, when we needed to throw together a demo, or hack up
@@ -31,6 +26,9 @@
     
      -- James Boyden, CEO, SnapDisco
 
+#### From a client for whom I built:
+- JSON API that connects to a payment processor as well as allowing users to access their proprietary technology.
+- Android Application in Python
 
 ## What Have I Built?
 ### Django website with paypal integration built for a client, taking 100 hours of work: https://accounttracker.com
