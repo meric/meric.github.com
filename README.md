@@ -5,6 +5,33 @@
 - Python or Lua Programming
 - [Email me](mailto:meric.au+github@gmail.com)
 
+
+## How have I done before?
+
+#### Previous client for whom I built:
+- JSON API that connects to a payment processor as well as allowing users to access their proprietary technology.
+- Android Application in Python
+
+
+    Eric is smart, hard-working, cheerful, enthusiastic, quick-learning,
+    and a creative problem solver.  We've called upon him several times at
+    very short notice, when we needed to throw together a demo, or hack up
+    some new features, and time was short.
+    
+    Eric always dives into our code enthusiastically, no matter how hacky
+    or crufty it is before a deadline.  He works hard to deliver results
+    on time; if he hits a wall, he finds a way around it.
+    
+    In a startup, deadlines can be stressful and tempers can sometimes run
+    high; Eric's cheerfulness and relentless positivity avoids escalating
+    any situation.
+    
+    All in all, Eric is a great developer and a great guy.  I wouldn't
+    recommend you hire him though, because we found him first.
+    
+     -- James Boyden, CEO, SnapDisco
+
+
 ## What Have I Built?
 ### Django website with paypal integration built for a client, taking 100 hours of work: https://accounttracker.com
 
@@ -15,7 +42,7 @@
 
 ![Gradconnection notifications](http://i.imgur.com/HsTQw5A.png)
 
-- I also helped Gradconnection reduced processing time on some of their most frequently visited pages by over 90% through optimizing their calls to the Django ORM.
+- I also helped Gradconnection reduce processing time on some of their most frequently visited pages by over 90% through optimizing their calls to the Django ORM. I am currently helping Gradconnection to save tens of thousands of dollars of server costs per year at the same time as further improving the responsiveness of the website in addition to optimizations I made mentioned above.
 
 ## What Did I Study?
 ### Bachelor of Commerce and Software Engineering (Honours), 2008-2013
